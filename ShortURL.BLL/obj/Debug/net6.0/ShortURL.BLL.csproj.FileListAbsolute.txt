@@ -1,0 +1,15 @@
+D:\ShortURL\ShortURL.BLL\bin\Debug\net6.0\ShortURL.BLL.deps.json
+D:\ShortURL\ShortURL.BLL\bin\Debug\net6.0\ShortURL.BLL.dll
+D:\ShortURL\ShortURL.BLL\bin\Debug\net6.0\ShortURL.BLL.pdb
+D:\ShortURL\ShortURL.BLL\bin\Debug\net6.0\ShortURL.DAL.dll
+D:\ShortURL\ShortURL.BLL\bin\Debug\net6.0\ShortURL.DAL.pdb
+D:\ShortURL\ShortURL.BLL\obj\Debug\net6.0\ShortURL.BLL.csproj.AssemblyReference.cache
+D:\ShortURL\ShortURL.BLL\obj\Debug\net6.0\ShortURL.BLL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ShortURL\ShortURL.BLL\obj\Debug\net6.0\ShortURL.BLL.AssemblyInfoInputs.cache
+D:\ShortURL\ShortURL.BLL\obj\Debug\net6.0\ShortURL.BLL.AssemblyInfo.cs
+D:\ShortURL\ShortURL.BLL\obj\Debug\net6.0\ShortURL.BLL.csproj.CoreCompileInputs.cache
+D:\ShortURL\ShortURL.BLL\obj\Debug\net6.0\ShortURL.BLL.csproj.CopyComplete
+D:\ShortURL\ShortURL.BLL\obj\Debug\net6.0\ShortURL.BLL.dll
+D:\ShortURL\ShortURL.BLL\obj\Debug\net6.0\refint\ShortURL.BLL.dll
+D:\ShortURL\ShortURL.BLL\obj\Debug\net6.0\ShortURL.BLL.pdb
+D:\ShortURL\ShortURL.BLL\obj\Debug\net6.0\ref\ShortURL.BLL.dll

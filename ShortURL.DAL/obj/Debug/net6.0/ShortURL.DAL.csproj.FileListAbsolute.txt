@@ -1,0 +1,14 @@
+D:\ShortURL\ShortURL.DAL\bin\Debug\net6.0\ShortURL.DAL.deps.json
+D:\ShortURL\ShortURL.DAL\bin\Debug\net6.0\ShortURL.DAL.runtimeconfig.json
+D:\ShortURL\ShortURL.DAL\bin\Debug\net6.0\ShortURL.DAL.dll
+D:\ShortURL\ShortURL.DAL\bin\Debug\net6.0\ShortURL.DAL.pdb
+D:\ShortURL\ShortURL.DAL\obj\Debug\net6.0\ShortURL.DAL.csproj.AssemblyReference.cache
+D:\ShortURL\ShortURL.DAL\obj\Debug\net6.0\ShortURL.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\ShortURL\ShortURL.DAL\obj\Debug\net6.0\ShortURL.DAL.AssemblyInfoInputs.cache
+D:\ShortURL\ShortURL.DAL\obj\Debug\net6.0\ShortURL.DAL.AssemblyInfo.cs
+D:\ShortURL\ShortURL.DAL\obj\Debug\net6.0\ShortURL.DAL.csproj.CoreCompileInputs.cache
+D:\ShortURL\ShortURL.DAL\obj\Debug\net6.0\ShortURL.DAL.dll
+D:\ShortURL\ShortURL.DAL\obj\Debug\net6.0\refint\ShortURL.DAL.dll
+D:\ShortURL\ShortURL.DAL\obj\Debug\net6.0\ShortURL.DAL.pdb
+D:\ShortURL\ShortURL.DAL\obj\Debug\net6.0\ShortURL.DAL.genruntimeconfig.cache
+D:\ShortURL\ShortURL.DAL\obj\Debug\net6.0\ref\ShortURL.DAL.dll
